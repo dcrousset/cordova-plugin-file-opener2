@@ -5,3 +5,7 @@
 *.war
 *.ear
 *.bak
+/.idea/.gitignore
+/.idea/github#cordova-plugin-file-opener2.iml
+/.idea/modules.xml
+/.idea/vcs.xml
